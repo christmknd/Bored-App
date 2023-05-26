@@ -7,6 +7,11 @@ Application inspiré par la chanson "Boredom" de Tyler The Creator. Vous vous en
 - Framework : NextJS
 - API tierce : Bored API ( anglais seulement disponbile pour l'instant)
 
+## Amélioration à apporter
+
+- [] Design à ajouter
+- [] Rajouter un lecteur MP3 avec Boredom
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
