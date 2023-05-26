@@ -1,4 +1,5 @@
-import Image from 'next/image'
+"use client"
+import SearchActivity from './component/SearchActivity'
 import styles from './page.module.css'
 
 export default function Home() {
@@ -8,6 +9,9 @@ export default function Home() {
       <div className={styles.center}>
         <h1>Boredom got a new bestfriend</h1>
       </div>
+
+      <SearchActivity/>
+      
     </main>
   )
 }
